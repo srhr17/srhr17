@@ -1,4 +1,4 @@
-### Hi there 👋, this is Sri Hari!!
+###                                                          Hi there 👋, this is Sri Hari!!
 <h3 align="center">Let's talk more about Machine Learning & Deep Learning!</h3>
 <!--
 **srhr17/srhr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srhr17&show_icons=true" alt="https://github.com/srhr17" /> </p>
 
--->
+
