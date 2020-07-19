@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, this is Sri Hari!!</h1>
-<h3 align="center">Let's talk more about Machine Learning & Deep Learning!</h3>
+<h3 align="center">Let's talk more about Machine Learning & Deep Learning!<img width="200px" src="https://camo.githubusercontent.com/dc7a34b1c31b6379ffc8b5a0a5f2ac371a61c626/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34316c4a38797747316e636d394658572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" style="max-width:100%;align=center"></h3>
 <!--
 **srhr17/srhr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +26,4 @@
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srhr17&show_icons=true" alt="https://github.com/srhr17" /> </p>
 
-<img width="200px" src="https://camo.githubusercontent.com/dc7a34b1c31b6379ffc8b5a0a5f2ac371a61c626/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34316c4a38797747316e636d394658572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" style="max-width:100%;align=center">
+
