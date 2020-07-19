@@ -2,7 +2,7 @@
 <h3 align="center">Let's talk more about Machine Learning & Deep Learning!</h3>
 <!--
 **srhr17/srhr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srhr17" alt="https://github.com/srhr17" /> </p>
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Toxic Drug Identification 
