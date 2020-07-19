@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srhr17" alt="https://github.com/srhr17" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=srhr17" alt="https://github.com/srhr17" /> </p>
 
 - 🔭 I’m currently working on : Toxic Drug Identification 
 
