@@ -27,4 +27,4 @@
 
 </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srhr17&show_icons=true" alt="https://github.com/srhr17" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srhr17&theme=tokyonight)
+<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srhr17&theme=tokyonight) </p>
