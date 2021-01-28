@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: [Mail](srhr1999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/srihari17/)
 
-- 🧙 Perform the charm , to check out my portfolio: [revelio](https://srhr17.github.io/srihari-portfolio/) 
+- 🧙 Perform the charm , to check out my portfolio: [revelio](http://srihari.is-a.dev/) 
 
 - 😄 Pronouns: Hari , Sri , Gobi , SH !
 
