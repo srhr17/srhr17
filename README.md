@@ -29,4 +29,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srhr17&theme=tokyonight" alt="https://github.com/srhr17"/> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswath-ram&theme=dark" alt="aswath-ram" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswath-ram&theme=dark" alt="aswath-ram" /></p>
