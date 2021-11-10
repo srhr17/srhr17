@@ -31,5 +31,5 @@
 
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srhr17&theme=dark" alt="srhr17" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswath-ram" alt="aswath-ram" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srhr17" alt="srhr17" /></a> </p>
 
