@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, this is Sri Hari!!</h1>
-<h3 align="center">Let's talk more about Machine Learning & Deep Learning! </h3>
+<h3 align="center">Let's talk more about Data Science, Machine Learning & Deep Learning! </h3>
 <!--
 **srhr17/srhr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srhr17" alt="https://github.com/srhr17" /> </p>
 
-- 🔭 I’m currently working on : Toxic Drug Identification 
+- 🔭 I’m currently working on : Data Sciecne application in finance (especially marketing analytics)
 
 - 🌱 I’m currently learning : Different Deep Learning Paradigms
 <!--- 👯 I’m looking to collaborate on ...
