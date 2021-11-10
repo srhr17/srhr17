@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srhr17" alt="https://github.com/srhr17" /> </p>
 
-- 🔭 I’m currently working on : Data Sciecne application in finance (especially marketing analytics)
+- 🔭 I’m currently working on : Data Science application in finance (especially marketing analytics)
 
 - 🌱 I’m currently learning : Different Deep Learning Paradigms
 <!--- 👯 I’m looking to collaborate on ...
